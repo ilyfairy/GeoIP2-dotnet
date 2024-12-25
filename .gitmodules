@@ -1,3 +1,6 @@
 [submodule "MaxMind.GeoIP2.UnitTests/TestData/MaxMind-DB"]
 	path = MaxMind.GeoIP2.UnitTests/TestData/MaxMind-DB
 	url = https://github.com/maxmind/MaxMind-DB.git
+[submodule "MaxMind-DB-Reader-dotnet"]
+	path = MaxMind-DB-Reader-dotnet
+	url = https://github.com/ilyfairy/MaxMind-DB-Reader-dotnet
